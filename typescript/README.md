@@ -1,4 +1,6 @@
-# aoc-typescript
+# Advent of Code
+
+## TypeScript
 
 To install dependencies:
 
